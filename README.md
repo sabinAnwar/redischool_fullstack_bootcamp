@@ -1,2 +1,2 @@
-# redischool_fullstack_bootcamp
+# Redi School Bootcamp
 Redi School Repository doing it from Phone☺️
